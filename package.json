@@ -1,0 +1,21 @@
+{
+  "name": "express_vs_fastify",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "test:express": "node express.js",
+    "test:fastify": "node fastify.js",
+    "test:hono": "node hono.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hono/node-server": "^1.12.2",
+    "esm": "^3.2.25",
+    "express": "^4.19.2",
+    "fastify": "^4.28.1",
+    "hono": "^4.5.11"
+  }
+}
