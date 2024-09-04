@@ -1,4 +1,4 @@
-# Test Benchmarking Express vs fastify vs hono
+# Test Benchmarking Express vs Fastify vs Hono
 
 ### Send POST request:
 
