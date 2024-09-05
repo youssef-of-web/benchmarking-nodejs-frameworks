@@ -1,6 +1,6 @@
 # Test Benchmarking Express vs Fastify vs Hono
 
-### Intall autocannon
+### Install autocannon
 
 npm i -g autocannon
 
